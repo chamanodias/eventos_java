@@ -20,12 +20,12 @@ Clone o repositório:
 
 bash
 Copiar código
-git clone https://github.com/seu-usuario/sistema-gerenciamento-eventos.git
+git clone da url do projeto
 Navegue até o diretório do projeto:
 
 bash
 Copiar código
-cd sistema-gerenciamento-eventos
+cd eventos_java
 Abra o projeto em sua IDE de preferência.
 
 Compile e execute a classe Main.java para iniciar a aplicação.
